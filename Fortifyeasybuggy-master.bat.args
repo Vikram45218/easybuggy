@@ -1,0 +1,12 @@
+ 
+"-cp" 
+"C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\log4j-1.2-api-2.8.1.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\commons-collections-3.1.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\junit-4.12.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\struts2-core-2.3.20.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\commons-beanutils-1.8.3.jar" 
+"-cp" 
+"C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\junit-4.8.1.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\log4j-jmx-gui-2.8.1.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\jackson-core-2.6.6.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\junit-4.9.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\log4j-api-2.8.1.jar" 
+"-cp" 
+"C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\log4j-core-2.8.1.jar;C:\Users\Lokesh T K\Downloads\easybuggy-master\lib\MSMQClient.jar" 
+"-source" 
+"11" 
+"-exclude" "C:\Users\Lokesh T K\Downloads\easybuggy-master\**\*.jar" 
+"-exclude" "C:\Users\Lokesh T K\Downloads\easybuggy-master\**\*.class" 
+"C:\Users\Lokesh T K\Downloads\easybuggy-master" 
